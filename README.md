@@ -1,19 +1,19 @@
 # [KLPBBS_auto_sign_in](https://github.com/xyz8848/KLPBBS_auto_sign_in)
-基于 GitHub Action 的苦力怕论坛自动签到脚本  
-[![GitHub Stars](https://img.shields.io/github/stars/xyz8848/KLPBBS_auto_sign_in)](https://github.com/xyz8848/KLPBBS_auto_sign_in/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/xyz8848/KLPBBS_auto_sign_in)](https://github.com/xyz8848/KLPBBS_auto_sign_in/network/members)
+移动到页面上的下一个交互元素。编辑README.md文件内容  
+[![移动到页面上的下一个交互元素。基于 GitHub的行动在你面前](https://img.shields.io/github/stars/xyz8848/KLPBBS_auto_sign_in)](https://github.com/xyz8848/KLPBBS_auto_sign_in/stargazers)
+[![移动到页面上的下一个交互元素，你是我的](https://img.shields.io/github/forks/xyz8848/KLPBBS_auto_sign_in)](https://github.com/xyz8848/KLPBBS_auto_sign_in/network/members)
 
-## 如何使用
+##GitHub叉子
 
-1. [Fork](https://github.com/xyz8848/KLPBBS_auto_sign_in/fork) 这个仓库
-2. 授予工作流读取和写入权限（用于工作流保活，如果仓库中在过去 60 天内没有提交，GitHub 将暂停 GitHub 工作流的计划触发器。除非进行新的提交，否则基于 cron 的触发器不会运行。）
+1. [GitHub Stars](https://github.com/xyz8848/KLPBBS_auto_sign_in/fork)叉
+2.这个仓库
 ![step2.webp](img/step2.webp)
-3. 打开 Actions secrets and variables  
+3.授予工作流读取和写入权限（你是你的，你是你的，你是你的，你是你的，你是你的，你是你的，你是你的  
 ![step3.webp](img/step3.webp)
-4. 添加以下 secret：[`USERNAME`](https://github.com/xyz8848/KLPBBS_auto_sign_in/blob/main/docs/secrets.md#username)，[`PASSWORD`](https://github.com/xyz8848/KLPBBS_auto_sign_in/blob/main/docs/secrets.md#password)
+4.打开行动秘密和变量[`如何使用`](https://github.com/xyz8848/KLPBBS_auto_sign_in/blob/main/docs/secrets.md#username)用户名[`叉添加以下秘密：`](https://github.com/xyz8848/KLPBBS_auto_sign_in/blob/main/docs/secrets.md#password)
 
-## 更多功能
-### 自定义签到时间
+##密码
+###更多功能
 （默认每天 00:01 签到）
 1. 到 [`.github/workflows/sign_in.yml`](.github/workflows/sign_in.yml) 中修改签到时间
 
@@ -39,6 +39,9 @@
 3. 认证 **（以下方法任选一个）**
     1. 如果要使用**用户名+密码**认证，添加以下 secret：[`NTFY_USERNAME`](https://github.com/xyz8848/KLPBBS_auto_sign_in/blob/main/docs/secrets.md#ntfy_username)，[`NTFY_PASSWORD`](https://github.com/xyz8848/KLPBBS_auto_sign_in/blob/main/docs/secrets.md#ntfy_password)
     2. 如果要使用 **Token** 认证，添加以下 secret：[`NTFY_TOKEN`](https://github.com/xyz8848/KLPBBS_auto_sign_in/blob/main/docs/secrets.md#ntfy_token)
-
 ## 统计数据
 ![](https://repobeats.axiom.co/api/embed/61dc140b2e19a099f83e593318024e98f7b66be5.svg)
+以下是无关内容：
+klpbbs.com
+bilibili.com
+baidu.com
