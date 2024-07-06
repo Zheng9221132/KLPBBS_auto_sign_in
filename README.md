@@ -42,6 +42,6 @@
 ## 统计数据
 ![](https://repobeats.axiom.co/api/embed/61dc140b2e19a099f83e593318024e98f7b66be5.svg)
 以下是无关内容：
-klpbbs.com
-bilibili.com
-baidu.com
+[`klpbbs`](https://klpbbs.com/)
+[`bilibili`](https://bilibili.com/)
+[`baidu`](https://baidu.com/)
